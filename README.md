@@ -20,7 +20,7 @@ pip install  -r requirements.txt
 3. Install the nms as follows:
 
 ```shell
-cd ./libs/utils
-python3.14 -m pip install . --no-build-isolation
+cd ALP-Net/libs/utils
+python3 -m pip install . --no-build-isolation
 cd ../..
 ```
