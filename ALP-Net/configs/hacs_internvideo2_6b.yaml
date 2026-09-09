@@ -4,8 +4,8 @@ val_split: [ 'validation' ]
 model_name: ALPNET
 
 dataset: {
-  json_file: /media/mert/New Volume/dataset_features/data/hacs/annotations/HACS_segments_v1.1.1_af.json,
-  feat_folder: /media/mert/New Volume/dataset_features/data/hacs/hacs_internvideo2_6b_w16_s8,
+  json_file: ./data/hacs/annotations/HACS_segments_v1.1.1_af.json,
+  feat_folder: ./data/hacs/hacs_internvideo2_6b_w16_s8,
   file_ext: .pt,
   file_prefix: 'v_',
   num_classes: 200,
