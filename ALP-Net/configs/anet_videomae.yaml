@@ -9,13 +9,13 @@ dataset: {
   file_prefix: v_,
   file_ext: .npy,
   num_classes: 1,
-  input_dim: 1024, #512,
-  feat_stride: 8, #16,
-  num_frames: 16, ###64, #16, #64, #16 clip frames × interval 4 #16,
-  default_fps: 15, #3.75, #15,
+  input_dim: 1024,
+  feat_stride: 8, 
+  num_frames: 16,
+  default_fps: 15,
   trunc_thresh: 0.5,
   crop_ratio: [ 0.9, 1.0 ],
-  max_seq_len: 2880, #3200, #1536, #768,
+  max_seq_len: 2880,
 
 
   backbone_type: videomae
