@@ -34,4 +34,29 @@ I3D Features: [See ActionFormer's github page](https://github.com/happyharrycn/a
 
 InternVideo2 Features: [See Video Mamba Suite's github page](https://github.com/OpenGVLab/video-mamba-suite/tree/main/video-mamba-suite/temporal-action-localization).
 
-VideoMaev2 Features: [See the OpenGVLab HuggingFace page](https://huggingface.co/datasets/OpenGVLab/VideoMAEv2-TAL-Features).
+VideoMAEv2 Features: [See the OpenGVLab HuggingFace page](https://huggingface.co/datasets/OpenGVLab/VideoMAEv2-TAL-Features).
+
+**<ins>ActivityNet 1.3 Dataset:</ins>**
+
+I3D and TSP Features: [See ActionFormer's github page](https://github.com/happyharrycn/actionformer_release).
+
+InternVideo2 Features: [See Video Mamba Suite's github page](https://github.com/OpenGVLab/video-mamba-suite/tree/main/video-mamba-suite/temporal-action-localization). 
+
+VideoMAEv2 Features: [See OpenTAD's github page](https://github.com/sming256/OpenTAD/blob/main/docs/en/data.md).
+
+**<ins>Epic-Kitchens-100 Dataset:</ins>**
+
+SlowFast Features: [See ActionFormer's github page](https://github.com/happyharrycn/actionformer_release).
+
+VideoMAE Features: [See OpenTAD's github page](https://github.com/sming256/OpenTAD/blob/main/docs/en/data.md).
+
+**<ins>HACS Segments Dataset:</ins>**
+
+I3D Features: [See TriDet's github page](https://github.com/dingfengshi/TriDet).
+
+InternVideo2 Features: [See Video Mamba Suite's github page](https://github.com/OpenGVLab/video-mamba-suite/tree/main/video-mamba-suite/temporal-action-localization).
+
+VideoMAEv2 Features: [See TriDetPlus github page](https://github.com/dingfengshi/tridetplus).
+
+
+
