@@ -9,7 +9,7 @@ dataset: {
   file_prefix: "_spatial_feature",
   file_ext: .pt,
   num_classes: 20,
-  input_dim: 3200, #2048,
+  input_dim: 3200, 
   feat_stride: 4,
   num_frames: 16,
   # serve as data augmentation
