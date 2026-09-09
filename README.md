@@ -24,3 +24,9 @@ cd ALP-Net/libs/utils
 python3 -m pip install . --no-build-isolation
 cd ../..
 ```
+## Prepare the Datasets
+
+To install the datasets, follow the listed links:
+
+<u> Thumos14 Dataset: </u>
+For I3D features: 
