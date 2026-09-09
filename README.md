@@ -58,5 +58,16 @@ InternVideo2 Features: [See Video Mamba Suite's github page](https://github.com/
 
 VideoMAEv2 Features: [See TriDetPlus github page](https://github.com/dingfengshi/tridetplus).
 
+**<ins>FineAction Dataset:</ins>**
+
+InternVideo2 Features: [See Video Mamba Suite's github page](https://github.com/OpenGVLab/video-mamba-suite/tree/main/video-mamba-suite/temporal-action-localization). 
+
+VideoMAEv2 Features: [See the OpenGVLab HuggingFace page](https://huggingface.co/datasets/OpenGVLab/VideoMAEv2-TAL-Features).
+
+
+
+
+
+
 
 
