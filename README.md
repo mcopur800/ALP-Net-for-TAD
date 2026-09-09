@@ -107,8 +107,11 @@ Should you have any questions regarding this repository and paper, feel free to 
 This repository is build on a few other repositories (mainly TriDetPlus and DCLS). We thank these authors for their contribution to the field.
 
 TriDetPlus: https://github.com/dingfengshi/tridetplus
+
 TriDet: https://github.com/dingfengshi/TriDet
+
 ActionFormer: https://github.com/happyharrycn/actionformer_release
+
 DCLS: https://github.com/K-H-Ismail/Dilated-Convolution-with-Learnable-Spacings-PyTorch/
 
 
