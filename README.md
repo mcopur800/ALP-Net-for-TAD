@@ -84,7 +84,7 @@ The config files expect the data folder to be prepared in the following structur
         │   ├── slowfast_features
         │   ├── videomae-large_ft_noun_16x4x1_img224_stride8_len16_interval1_epic_noun
         │   └── videomae-large_ft_verb_16x4x1_img224_stride8_len16_interval1_epic_verb
-        └── thumos
+        ├── thumos
         │   ├── annotations
         │   ├── i3d_features
         │   ├── internvideo2_6b
