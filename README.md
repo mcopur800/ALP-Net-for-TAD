@@ -64,6 +64,8 @@ InternVideo2 Features: [See Video Mamba Suite's github page](https://github.com/
 
 VideoMAEv2 Features: [See the OpenGVLab HuggingFace page](https://huggingface.co/datasets/OpenGVLab/VideoMAEv2-TAL-Features).
 
+The config files expect the data folder to be prepared in the following structure: 
+
 ```
 .
 └── ALP-Net
@@ -79,7 +81,7 @@ VideoMAEv2 Features: [See the OpenGVLab HuggingFace page](https://huggingface.co
         │   └── videomae-large_16x4x1_img224_stride8_len16_interval4_anet
         ├── epic_kitchens
         │   ├── annotations
-        │   ├── features
+        │   ├── slowfast_features
         │   ├── videomae-large_ft_noun_16x4x1_img224_stride8_len16_interval1_epic_noun
         │   └── videomae-large_ft_verb_16x4x1_img224_stride8_len16_interval1_epic_verb
         └── thumos
