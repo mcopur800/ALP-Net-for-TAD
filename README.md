@@ -1,10 +1,10 @@
 # ALP-Net: Adaptive and Long-Range Processing Network for Temporal Action Localization
 
-This is the github repository of our paper titled as "ALP-Net: Adaptive and Long-Range Processing Network for Temporal Action Localization".
+This is the GitHub repository of our paper titled as "ALP-Net: Adaptive and Long-Range Processing Network for Temporal Action Localization".
 
 ## Preparing the Conda Environment
 
-1. We have conducted our experiment on a 64-bit Linux system. We have used a conda environment with python 3.14.7 and pytorch 2.13.0. To create a conda environment with equivalent python and pytorch versions, execute the following commands on a terminal.
+1. We have conducted our experiments on a 64-bit Linux system. We have used a conda environment with Python 3.14.7 and PyTorch 2.13.0. To create a conda environment with equivalent Python and PyTorch versions, execute the following commands in a terminal.
 
 ```shell
 conda create -n ALP-Net-env python=3.14.7
@@ -17,7 +17,7 @@ pip3 install torch==2.13.0 torchvision --index-url https://download.pytorch.org/
 pip install  -r requirements.txt
 ```
 
-3. Install the nms as follows:
+3. Install the NMS as follows:
 
 ```shell
 cd ALP-Net/libs/utils
@@ -26,7 +26,7 @@ cd ../..
 ```
 ## Prepare the Datasets
 
-To install the datasets, follow the listed links:
+To prepare the datasets, follow the links below:
 
 **<ins>Thumos14 Dataset:</ins>**
 
@@ -34,7 +34,7 @@ I3D Features: [See ActionFormer's github page](https://github.com/happyharrycn/a
 
 InternVideo2 Features: [See Video Mamba Suite's github page](https://github.com/OpenGVLab/video-mamba-suite/tree/main/video-mamba-suite/temporal-action-localization).
 
-VideoMAEv2 Features: [See the OpenGVLab HuggingFace page](https://huggingface.co/datasets/OpenGVLab/VideoMAEv2-TAL-Features).
+VideoMAEv2 Features: [See the OpenGVLab Hugging Face page](https://huggingface.co/datasets/OpenGVLab/VideoMAEv2-TAL-Features).
 
 **<ins>ActivityNet 1.3 Dataset:</ins>**
 
@@ -62,7 +62,7 @@ VideoMAEv2 Features: [See TriDetPlus github page](https://github.com/dingfengshi
 
 InternVideo2 Features: [See Video Mamba Suite's github page](https://github.com/OpenGVLab/video-mamba-suite/tree/main/video-mamba-suite/temporal-action-localization). 
 
-VideoMAEv2 Features: [See the OpenGVLab HuggingFace page](https://huggingface.co/datasets/OpenGVLab/VideoMAEv2-TAL-Features).
+VideoMAEv2 Features: [See the OpenGVLab Hugging Face page](https://huggingface.co/datasets/OpenGVLab/VideoMAEv2-TAL-Features).
 
 The config files expect the data folder to be prepared in the following structure: 
 
