@@ -7,11 +7,11 @@ dataset: {
   json_file: ./data/epic_kitchens/annotations/epic_kitchens_100_noun.json,
   feat_folder: ./data/epic_kitchens/videomae-large_ft_noun_16x4x1_img224_stride8_len16_interval1_epic_noun,
   file_prefix: ~,
-  file_ext: .npy, #.npz,
+  file_ext: .npy,
   num_classes: 300,
   input_dim: 1024, #2304,
-  feat_stride: 8, #16,
-  num_frames: 16, #32,
+  feat_stride: 8,
+  num_frames: 16,
   default_fps: 30,
   trunc_thresh: 0.3,
   crop_ratio: [ 0.9, 1.0 ],
@@ -34,9 +34,9 @@ model: {
 }
 opt: {
   learning_rate: 0.0001,
-  warmup_epochs: 16, #5,
-  epochs: 9, #14,
-  weight_decay: 0.04 #0.05,
+  warmup_epochs: 16,
+  epochs: 9, 
+  weight_decay: 0.04 
 }
 loader: {
   batch_size: 2,
