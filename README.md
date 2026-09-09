@@ -85,10 +85,20 @@ The config files expect the data folder to be prepared in the following structur
         │   ├── videomae-large_ft_noun_16x4x1_img224_stride8_len16_interval1_epic_noun
         │   └── videomae-large_ft_verb_16x4x1_img224_stride8_len16_interval1_epic_verb
         └── thumos
+        │   ├── annotations
+        │   ├── i3d_features
+        │   ├── internvideo2_6b
+        │   └── th14_mae_g_16_4
+        ├── fineaction
+        │   ├── annotations
+        │   ├── fineaction_internvideo2_1b_w16_s4
+        │   └── fineaction_mae_g
+        └── hacs
             ├── annotations
-            ├── i3d_features
-            ├── internvideo2_6b
-            └── th14_mae_g_16_4
+            ├── hacs_internvideo2_6b_w16_s8
+            ├── hacs_videomae2_varlenfeat
+            └── i3d_feature
+
 
 ```
 
