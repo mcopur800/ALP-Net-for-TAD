@@ -4,8 +4,8 @@ val_split: [ 'validation' ]
 model_name: ALPNET
 
 dataset: {
-  json_file: /media/mert/New Volume/dataset_features/data/fineaction/annotations/fineaction_annotations_gt_filter.json,
-  feat_folder: /media/mert/New Volume/dataset_features/data/fineaction/fineaction_internvideo2_1b_w16_s4,
+  json_file: ./data/fineaction/annotations/fineaction_annotations_gt_filter.json,
+  feat_folder: ./data/fineaction/fineaction_internvideo2_1b_w16_s4,
   file_ext: .pt,
   file_prefix: '',
   num_classes: 106,
