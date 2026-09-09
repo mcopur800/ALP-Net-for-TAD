@@ -28,5 +28,10 @@ cd ../..
 
 To install the datasets, follow the listed links:
 
-<u> Thumos14 Dataset: </u>
-For I3D features: 
+**<ins>Thumos14 Dataset:</ins>**
+
+I3D Features: [See ActionFormer's github page](https://github.com/happyharrycn/actionformer_release).
+
+InternVideo2 Features: [See Video Mamba Suite's github page](https://github.com/OpenGVLab/video-mamba-suite/tree/main/video-mamba-suite/temporal-action-localization).
+
+VideoMaev2 Features: [See the OpenGVLab HuggingFace page](https://huggingface.co/datasets/OpenGVLab/VideoMAEv2-TAL-Features).
