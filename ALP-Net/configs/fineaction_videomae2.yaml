@@ -4,7 +4,7 @@ val_split: [ 'validation' ]
 model_name: ALPNET
 
 dataset: {
-  json_file: ./data/fineaction/annotations/fineaction_annotations_gt_filter.json,   #annotations_gt.json,
+  json_file: ./data/fineaction/annotations/fineaction_annotations_gt_filter.json,  
   feat_folder: ./data/fineaction/fineaction_mae_g,
   file_ext: .npy,
   file_prefix: '',
