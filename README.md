@@ -42,7 +42,7 @@ I3D and TSP Features: [See ActionFormer's GitHub page](https://github.com/happyh
 
 InternVideo2 Features: [See Video Mamba Suite's GitHub page](https://github.com/OpenGVLab/video-mamba-suite/tree/main/video-mamba-suite/temporal-action-localization). 
 
-VideoMAEv2 Features: [See OpenTAD's GitHub page](https://github.com/sming256/OpenTAD/blob/main/docs/en/data.md).
+VideoMAE Features: [See OpenTAD's GitHub page](https://github.com/sming256/OpenTAD/blob/main/docs/en/data.md).
 
 **<ins>Epic-Kitchens-100 Dataset:</ins>**
 
