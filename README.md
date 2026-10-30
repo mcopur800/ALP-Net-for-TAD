@@ -124,5 +124,18 @@ ActionFormer: https://github.com/happyharrycn/actionformer_release
 
 DCLS: https://github.com/K-H-Ismail/Dilated-Convolution-with-Learnable-Spacings-PyTorch/
 
+## Citation
 
+If you make use of this repository for your work, please cite as follows: 
+
+```
+@InProceedings{Liu_2021_CVPR,
+    author    = {Liu, Xin and Pintea, Silvia L. and Nejadasl, Fatemeh Karimi and Booij, Olaf and van Gemert, Jan C.},
+    title     = {No Frame Left Behind: Full Video Action Recognition},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2021},
+    pages     = {14892-14901}
+}
+```
 
