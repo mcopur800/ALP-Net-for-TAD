@@ -129,13 +129,17 @@ DCLS: https://github.com/K-H-Ismail/Dilated-Convolution-with-Learnable-Spacings-
 If you make use of this repository for your work, please cite as follows: 
 
 ```
-@InProceedings{Liu_2021_CVPR,
-    author    = {Liu, Xin and Pintea, Silvia L. and Nejadasl, Fatemeh Karimi and Booij, Olaf and van Gemert, Jan C.},
-    title     = {No Frame Left Behind: Full Video Action Recognition},
-    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
-    month     = {June},
-    year      = {2021},
-    pages     = {14892-14901}
+@Article{electronics15215067,
+AUTHOR = {Çopur, Mert and Atila, Ümit},
+TITLE = {ALP-Net: Adaptive and Long-Range Processing Network for Temporal Action Localization},
+JOURNAL = {Electronics},
+VOLUME = {15},
+YEAR = {2026},
+NUMBER = {21},
+ARTICLE-NUMBER = {5067},
+URL = {https://www.mdpi.com/2079-9292/15/21/5067},
+ISSN = {2079-9292},
+DOI = {10.3390/electronics15215067}
 }
 ```
 
