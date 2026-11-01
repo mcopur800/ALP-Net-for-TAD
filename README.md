@@ -1,6 +1,6 @@
 # ALP-Net: Adaptive and Long-Range Processing Network for Temporal Action Localization
 
-This is the GitHub repository of our paper titled "ALP-Net: Adaptive and Long-Range Processing Network for Temporal Action Localization".
+This is the GitHub repository of our [paper](https://www.mdpi.com/2079-9292/15/21/5067) titled "ALP-Net: Adaptive and Long-Range Processing Network for Temporal Action Localization".
 
 ## Preparing the Conda Environment
 
